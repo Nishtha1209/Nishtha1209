@@ -1,4 +1,4 @@
-[![MasterHead](https://www.designfort.com/image/catalog/news/source.gif)
+![MasterHead](https://www.designfort.com/image/catalog/news/source.gif)
 
 <h1 align="center">Hi 👋, I'm Nishtha Kaigaonkar</h1>
 <h3 align="center">A CSE undergraduate, Front-end Developer, UI/UX Designer</h3>
