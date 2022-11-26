@@ -1,4 +1,4 @@
-![MasterHead](https://utulsa.edu/wp-content/uploads/2020/09/tech-1200x460-1-1200x455.jpg)
+![MasterHead](https://jayblues.com/images/slider5.jpg)
 <h1 align="center">Hi 👋, I'm Nishtha Kaigaonkar</h1>
 <h3 align="center">A CSE undergraduate, Front-end Developer, UI/UX Designer</h3>
 
