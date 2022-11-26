@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/nishtha-kaigaonkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishtha kaigaonkar" height="30" width="40" /></a>
 <a href="https://twitter.com/Nishtha_121" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishtha_121" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nishtha-kaigaonkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishtha kaigaonkar" height="30" width="40" /></a>
-<a href="https://dribbble.com/Nishtha_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nishtha_12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nishtha_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishtha_12" height="30" width="40" /></a>
 <a href="https://leetcode.com/profile/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishtha kaigaonkar" height="30" width="40" /></a>
+<a href="https://dribbble.com/Nishtha_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nishtha_12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
