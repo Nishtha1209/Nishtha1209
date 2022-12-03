@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Data Structures and Algorithms, Back-end web development**
 
-- 🤝 I’m looking for help with **open source contibution**
+- 🤝 I’m looking for help with **Open Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://nishtha1209.github.io/Portfolio/index.html](https://nishtha1209.github.io/Portfolio/index.html)
 
