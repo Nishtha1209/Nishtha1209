@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nishtha1209.github.io/Portfolio/index.html](https://nishtha1209.github.io/Portfolio/index.html)
 
-- 💬 Ask me about **UI/UX, Programming in Java(non-andriod), Front-end Development and Back-end Development**
+- 💬 Ask me about **UI/UX, Programming in Java(non-andriod), Front-end and Back-end Development **
 
 - 📫 How to reach me **nishtha.kaigaonkar12@gmail.com**
 
