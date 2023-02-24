@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtha1209&label=Profile%20views&color=0e75b6&style=flat" alt="nishtha1209" /> </p>
 
-- 🌱 I’m currently learning **React.js, Data Structures and Algorithms, and Back  end Web Development**
+- 🌱 I’m currently learning **React.js, Data Structures and Algorithms, and Back - end Web Development**
 
-- 🤝 I’m looking for help with **Open Source Contribution**
+- 🤝 I’m looking for help with **Open Source ContributionS**
 
 - 👨‍💻 All of my projects are available at [https://nishtha1209.github.io/Portfolio/index.html](https://nishtha1209.github.io/Portfolio/index.html)
 
