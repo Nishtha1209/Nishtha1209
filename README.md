@@ -20,14 +20,9 @@ Currently working as a **Data Engineer at FAANG**, focusing on **distributed sys
 
 ---
 
-### 📬 Reach Me
-- **Email:** nishtha.kaigaonkar12@gmail.com  
-- **Portfolio:** https://nishtha1209.github.io/Portfolio/index.html
-
----
-
 ### 🌐 Connect
 <p align="left">
+<p> Email: nishtha.kaigaonkar12@gmail.com </p>
 <a href="https://twitter.com/nishtha_121" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nishthak12/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://dribbble.com/nishtha_12" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" /></a>
