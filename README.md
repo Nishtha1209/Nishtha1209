@@ -6,13 +6,11 @@
 <h1 align="center">Nishtha Kaigaonkar</h1>
 <h3 align="center">Data Engineer | Distributed Systems | Streaming Infrastructure</h3>
 
----
 
 ## About Me
 I am a Data Engineer specializing in distributed systems, real-time data pipelines, and large-scale storage solutions.  
 My work focuses on building reliable, efficient, and high-performance data platforms using modern technologies and cloud infrastructure.
 
----
 
 ## Technical Skills
 
@@ -33,7 +31,6 @@ My work focuses on building reliable, efficient, and high-performance data platf
 - CI/CD Integration  
 - TestNG Frameworks  
 
----
 
 ## Connect
 
