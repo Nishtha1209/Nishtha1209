@@ -35,12 +35,13 @@ My work focuses on building reliable, efficient, and high-performance data platf
 ## Connect
 
 <p align="left">
+  Email : nishtha.kaigaonkar12@gmail.com
   <a href="https://twitter.com/nishtha_121" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/nishtha-kaigaonkar/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-  </a>
+  <!-- </a>
   <a href="https://dribbble.com/nishtha_12" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="30" />
   </a>
@@ -49,5 +50,5 @@ My work focuses on building reliable, efficient, and high-performance data platf
   </a>
   <a href="https://leetcode.com/u/Nishtha12/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
-  </a>
+  </a> -->
 </p>
