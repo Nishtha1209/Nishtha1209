@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/59e5d6c8-822c-44c3-aaa9-5a0bae5a699a.png" alt="banner" />
+  <img src="https://github.com/Nishtha1209/Nishtha1209/blob/main/banner%20image.png" alt="banner" />
 </p>
 
 <h1 align="center">Nishtha Kaigaonkar</h1>
