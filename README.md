@@ -35,7 +35,6 @@ My work focuses on building reliable, efficient, and high-performance data platf
 ## Connect
 
 <p align="left">
-  Email : nishtha.kaigaonkar12@gmail.com
   <a href="https://twitter.com/nishtha_121" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" />
   </a>
