@@ -45,17 +45,3 @@ TestNG • JUnit • Integration & Performance Testing
 **Extras I Keep in My Utility Belt:**  
 Git • HTML/CSS/JS • React (for fun) • Figma (for even more fun)
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishtha1209&show_icons=true&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishtha1209&show_icons=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha1209" alt="streak stats" />
-</p>
