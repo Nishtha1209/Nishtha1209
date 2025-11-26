@@ -22,7 +22,6 @@ My work focuses on building reliable, efficient, and high-performance data platf
 - DynamoDB  
 - PostgreSQL  
 - Apache Iceberg  
-- Data Modeling & Schema Design
 
 ### Cloud & DevOps
 - AWS  
